@@ -1,4 +1,4 @@
-
+#program that calculates surface area
 #date:20/02/2024
 #name: Faith Mukami
 
