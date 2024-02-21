@@ -1,0 +1,7 @@
+print ("my name is kami")
+print("i am 18 years old")
+print("i come from Thika")
+print("i love swimming")
+print("------")
+print("******")
+print("#######")
