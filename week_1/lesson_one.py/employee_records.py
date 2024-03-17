@@ -1,4 +1,4 @@
-#this is a program to show employee dat
+#this is a program to show employee data
 # date:21/02/2024
 #name: Faith Mukami
 

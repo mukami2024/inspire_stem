@@ -1,0 +1,30 @@
+section{
+img{width: 90cm;
+    height: 78cm;
+}
+.header-2{
+color: antiquewhite;
+    background-color: blue;
+    color: rgb(217, 215, 250);
+    margin:100px;
+    padding:50px;
+
+
+}
+.ball{
+    background-color: blueviolet;
+    height: 20px;
+    width: 50px;
+    border: radius 50px;
+}
+#bouncing{
+    position:absolute;
+}
+body{
+
+        margin :0;
+        padding: 0;
+        height:10vh;
+        display:flex;
+        justify-content: center;
+}
